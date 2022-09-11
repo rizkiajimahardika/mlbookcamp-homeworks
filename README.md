@@ -1,1 +1,1 @@
-# mlbookcamp-homeworks
+# Machine Learning Zoomcamp - Homeworks
